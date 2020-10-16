@@ -1,7 +1,9 @@
-# sehirEnums - 
+# City List of Turkey - Enumeration - 
 
-Türkiye Cumhuriyeti Şehirleri 
+Türkiye Cumhuriyeti Şehirleri - 
 Enumeration Yapısı
 
-not: typescript için hazırlanmıştır. 
+not: typescript dilinde hazırlanmıştır. 
+!! Made for typescript
+
 

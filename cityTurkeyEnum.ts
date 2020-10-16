@@ -1,4 +1,4 @@
-enum sehir{
+enum city{
     ADANA = 1,
     ADIYAMAN = 2,
     AFYONKARAHISAR = 3, 

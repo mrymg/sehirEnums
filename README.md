@@ -1,2 +1,7 @@
-# sehirEnums
-Türkiye Cumhuriyeti Şehirleri Enumeration Yapısı
+# sehirEnums - 
+
+Türkiye Cumhuriyeti Şehirleri 
+Enumeration Yapısı
+
+not: typescript için hazırlanmıştır. 
+
